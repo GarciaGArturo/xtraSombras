@@ -46,6 +46,12 @@
   -moz-box-shadow: 0 10px 6px -6px #777;
   box-shadow: 0 10px 6px -6px #777;
   }
+
+  .sombra-card-ligera {
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.23);  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.23);  /* Firefox 3.5 - 3.6 */
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.23);
+  }
 .sombra-abajo-esq-izq {
   position: relative;
   }
