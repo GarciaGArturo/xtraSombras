@@ -6,6 +6,11 @@
   -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);
   box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);
 }
+.sombra-abajo-muy-leve {
+  -moz-box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+  -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+}
 .sombra-abajo-fuerte {
   -webkit-box-shadow: 0px 10px 5px 0px rgba(50, 50, 50, 0.75);
   -moz-box-shadow: 0px 10px 5px 0px rgba(50, 50, 50, 0.75);
